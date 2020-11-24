@@ -1,0 +1,2 @@
+# REGEX_PART_Three_SEARCHING-ARABIC-TEXT
+THIS is my python CODE of my blog in searching ARABIC TEXTS USING REGEX in PYTHON
